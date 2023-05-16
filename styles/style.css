@@ -240,5 +240,19 @@ footer a img:hover{
   text-align: justify;
 }
 
-    
-    
+/*****************MERCHANDASING****************************/ 
+.merchandising{
+  background-color: #17c69b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+/*****************UNETE A LA COMUNIDAD****************************/
+.ClubVW{
+  background-color: #ee3b3b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
